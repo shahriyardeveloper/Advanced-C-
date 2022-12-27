@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\bin\Debug\HRAdministration.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\bin\Debug\HRAdministration.exe
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\bin\Debug\HRAdministration.pdb
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\bin\Debug\HRAdministrationAPI.dll
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.exe
+C:\Users\ASUS\OneDrive\Desktop\Projects\Advanced C#\HRAdministration\HRAdministration\obj\Debug\HRAdministration.pdb
